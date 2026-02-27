@@ -29,13 +29,13 @@ El script interactivo requiere y utiliza los siguientes parámetros durante su e
 ## 📸 5. Capturas de Pantalla y Evidencias
 
 1.  **Ejecución del Script:**
-    `![Ejecución]<img width="854" height="629" alt="image" src="https://github.com/user-attachments/assets/cd14278c-f198-42b8-b97f-377aed5f938c" />
+    <img width="854" height="629" alt="image" src="https://github.com/user-attachments/assets/cd14278c-f198-42b8-b97f-377aed5f938c" />
 
 2.  **Redirección Exitosa en la Víctima:**
-    `![Víctima Comprometida]<img width="1177" height="1007" alt="image" src="https://github.com/user-attachments/assets/5ff3ac83-0fc6-47bf-8f44-31e919a7feff" />
+    <img width="1177" height="1007" alt="image" src="https://github.com/user-attachments/assets/5ff3ac83-0fc6-47bf-8f44-31e919a7feff" />
 
 3.  **Topología en GNS3:**
-    `![Topología]<img width="650" height="495" alt="image" src="https://github.com/user-attachments/assets/1d8ccc95-f29b-4e8c-a8f0-c6ab69a56e94" />
+    <img width="650" height="495" alt="image" src="https://github.com/user-attachments/assets/1d8ccc95-f29b-4e8c-a8f0-c6ab69a56e94" />
 
 
 ## 🛡️ 6. Medidas de Mitigación
@@ -47,5 +47,4 @@ Para asegurar la infraestructura contra este vector de ataque, se recomiendan y 
 4.  **Aseguramiento AAA:** Restringir el acceso administrativo a los equipos de red mediante políticas RADIUS centralizadas para evitar cambios no autorizados en la configuración.
 
 ## 🎥 7. Entregables
-* **Enlace al Video Demostrativo :**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bMs6VIKwUv0" title="Video Demostrativo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Demostrativo DNS Spoofing](https://img.youtube.com/vi/bMs6VIKwUv0/maxresdefault.jpg)](https://www.youtube.com/watch?v=bMs6VIKwUv0)
