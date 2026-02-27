@@ -47,4 +47,5 @@ Para asegurar la infraestructura contra este vector de ataque, se recomiendan y 
 4.  **Aseguramiento AAA:** Restringir el acceso administrativo a los equipos de red mediante políticas RADIUS centralizadas para evitar cambios no autorizados en la configuración.
 
 ## 🎥 7. Entregables
-* **Enlace al Video Demostrativo :** (https://img.youtube.com/vi/bMs6VIKwUv0/0.jpg)](https://www.youtube.com/watch?v=bMs6VIKwUv0)
+* **Enlace al Video Demostrativo :**
+  https://www.youtube.com/embed/bMs6VIKwUv0
