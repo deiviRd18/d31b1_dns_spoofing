@@ -27,17 +27,16 @@ El script interactivo requiere y utiliza los siguientes parámetros durante su e
 * `IP_Spoof`: La dirección IP del atacante hacia donde se redirigirá el tráfico web (`20.24.20.2`).
 
 ## 📸 5. Capturas de Pantalla y Evidencias
-*(Nota: Inserta aquí las imágenes de tu laboratorio)*
 
 1.  **Ejecución del Script:**
     `![Ejecución]<img width="854" height="629" alt="image" src="https://github.com/user-attachments/assets/cd14278c-f198-42b8-b97f-377aed5f938c" />
-`
+
 2.  **Redirección Exitosa en la Víctima:**
     `![Víctima Comprometida]<img width="1177" height="1007" alt="image" src="https://github.com/user-attachments/assets/5ff3ac83-0fc6-47bf-8f44-31e919a7feff" />
-`
+
 3.  **Topología en GNS3:**
     `![Topología]<img width="650" height="495" alt="image" src="https://github.com/user-attachments/assets/1d8ccc95-f29b-4e8c-a8f0-c6ab69a56e94" />
-`
+
 
 ## 🛡️ 6. Medidas de Mitigación
 Para asegurar la infraestructura contra este vector de ataque, se recomiendan y documentan las siguientes medidas:
